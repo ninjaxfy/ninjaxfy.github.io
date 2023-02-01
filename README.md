@@ -1,2 +1,2 @@
 # ninjaxfy.github.io
-Visit [**Feiy's blog page**](https://ninjaxfy.github.io/).
+**Welcome to** [**Feiy's blog page**](https://ninjaxfy.github.io/) ❗️
