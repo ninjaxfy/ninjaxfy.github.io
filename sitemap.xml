@@ -2,40 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/doc-test2/01test/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/doc-test2/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/doc/01test/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/doc/paperr/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/doc-test2/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/doc/paperr/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/doc-test2/01test/</loc>
+    <loc>/doc/respository/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/doc/paperr/nmi-ood/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/doc/respository/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/doc/01test/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/doc-test2/01test/example2/</loc>
+    <loc>/doc/respository/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/doc-test2/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/doc/01test/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/doc/paperr/example2/</loc>
+    <loc>/doc/paperr/neurlps2021-toalign/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/talk/example/</loc>
@@ -46,9 +28,6 @@
   </url><url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/doc-test2/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/doc/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
