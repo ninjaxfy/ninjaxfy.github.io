@@ -61,11 +61,10 @@ I focus more about the &lt;strong&gt;model framework and model evluation design&
 &lt;p&gt;Model evaluation in TCGA patient datasets&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;img src= &#39;NMI-OOD1.jpg&#39;&gt;
 &lt;h2 id=&#34;4-critique-and-limitations&#34;&gt;4. Critique and limitations&lt;/h2&gt;
 &lt;p&gt;The field of transfer learning, particularly in computer vision, has experienced rapid development in recent years. In comparison to the latest domain adaptation algorithms, the deep learning model proposed in this paper may be considered &lt;strong&gt;relatively simple&lt;/strong&gt;. Moreover, &lt;strong&gt;domain adaptation-based models&lt;/strong&gt; are often characterized by &lt;strong&gt;low interpretability&lt;/strong&gt;, which has limited their development in the field of bioinformatics.
 Also, one potential for imoprovement by incorporating multi-omics data in addition to genomics data.&lt;/p&gt;
-&lt;img src= &#39;featured.jpg&#39; width=&#39;200&#39;&gt;</description>
+</description>
     </item>
     
     <item>
